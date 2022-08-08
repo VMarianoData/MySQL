@@ -1,0 +1,23 @@
+Meu pitch
+
+idade:
+Tenho 18 anos
+
+localidade:
+Moro em diadema são paulo
+
+falar de animais:
+gosto muito de animais, todos os tipos, menos louvadeus e gafanhoto pq me dá medo
+
+trabalhos passados e experiências passadas:
+fiz aulas de canto, não aprendi a cantar, aprendi a tocar teclado também, as só sei apertar as tecla e ligar na tomada, abri mão das minhas aulas de canto para começar a trabalhar e ajudar minha familia em casa.
+
+Comecei meu primeiro emprego como suporte digital de 4 faculdades diferentes ao mesmo tempo, me encontrei muito fora da minha zona de conforto, mas mesmo assim fui atrás de aprender com quem já tinha experiencia e ver aulas no youtube, likedin e udemy, para aprender a fazer aquilo, minha função era focada em resolução de problemas, foi onde deselvolvi uma comunicação acertiva, aprendi a gerenciar meu tempo e buscar solução para novos problemas.
+
+Mas mesmo que fosse para ajudar minha familia, não era aquilo que eu queria para minha vida, eu queria fazer minha própria história, tendo como base, minha experiencia com programação, pois fiz aulas de introdução ao java no senac, entrei na generations por indicação de um ex aluno e tive minhas maiores experiencias com programção, foi onde me encontrei e comecei algo muito além do que eu esperava, enquanto fazia o bootcamp mesmo que fosse muito dificil pra mim no começo, eu ecolhi acordar as 4 da manhã, estudando e ir dormi as 10 da noite, ainda estudando, aprendendo por dentro e por fora da generation, pois mesmo que eu não soubesse, tinha certeza que eu conseguiria aprender qualquer coisa, hoje em dia me encontro como um desenvolvedor full stack em busca do meu primeiro emprego na area da programação, com o foco de me tornar gerente de desenvolvimento de software.
+
+finalização:
+aqui acaba meu pitch, agradeço a atenção de todos, todas e todes,
+meu linkedin é victor mariano e meu github é VMarinOo.
+
+*não colocar coisas negativas*
